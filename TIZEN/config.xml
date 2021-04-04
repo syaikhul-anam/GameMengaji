@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="https://net.syaikhul.ngajibersama" version="1.0.0" viewmodes="maximized">
+	<tizen:application required_version="2.2"/>
+	<author href="" email="syaikhulanam@">syaikhulanam</author>
+	<content src="index.html" />
+	<description>ini Deskripsi</description>
+	<icon src="icon-128.png" width="128" height="128" />
+	<name>Ngaji Bersama</name>
+	<tizen:setting context-menu="disable" hwkey-event="enable" background-support="disable" encryption="disable" install-location="auto" screen-orientation="landscape" />
+	<feature name="http://tizen.org/feature/screen.size.all"/>
+</widget>
